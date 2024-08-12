@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eze+NJ!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Nigeria 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Nigeria </h3>
 
 <br/>
 
@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-🌍 Fun fact I'm currently under investigation by the FBI for writing code that's so efficient, it's suspected of being black magic.
+🌍 Fun fact I'm under investigation by the FBI for writing code that's so efficient, it's suspected of being black magic.
 
 
 
