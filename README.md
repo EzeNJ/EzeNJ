@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-🌍 Fun fact My code has more lines than the circumference of the Earth in meters! (And counting...)
+🌍 Fun fact I'm currently under investigation by the FBI for writing code that's so efficient, it's suspected of being black magic.
 
 
 
