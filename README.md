@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EzeNJ.EzeNJ" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eze+NJ!;" />
@@ -14,7 +13,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-🌍 Fun fact **My code has more lines than the circumference of the Earth in meters! (And counting...)**
+🌍 Fun fact My code has more lines than the circumference of the Earth in meters! (And counting...)
 
 
 
